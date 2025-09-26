@@ -17,12 +17,12 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Your-Father",
-    "PREFIX": "/",
+    "PREFIX": "bot",
     "ADMINBOT": [
-        "100037743553265"
+        "61563543432150"
     ],
     "NDH": [
-        "100037743553265"
+        "61563543432150"
     ],
     "DATABASE": {
         "sqlite": {
